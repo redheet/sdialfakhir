@@ -16,6 +16,7 @@ export const metadata = {
     "SD Islam",
     "Sekolah Dasar",
   ],
+  content: "67PRV7PTWE-aCpQSE5-XwU_pzoughUtziJ_doFhoGLM",
 };
 
 export default function RootLayout({ children }) {
