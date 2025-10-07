@@ -1,0 +1,113 @@
+{
+  "categories": {
+    "education": {
+      "title": "Online Education",
+      "icon": "ph-squares-four",
+      "images": [
+        {
+          "id": 1,
+          "title": "Gallery Image 1",
+          "alt": "img1",
+          "src": "assets/images/thumbs/gallery-img1.png",
+          "href": "assets/images/thumbs/gallery-img1.png"
+        },
+        {
+          "id": 2,
+          "title": "Gallery Image 2",
+          "alt": "img2",
+          "src": "assets/images/thumbs/gallery-img2.png",
+          "href": "assets/images/thumbs/gallery-img2.png"
+        },
+        {
+          "id": 3,
+          "title": "Gallery Image 3",
+          "alt": "img3",
+          "src": "assets/images/thumbs/gallery-img3.png",
+          "href": "assets/images/thumbs/gallery-img3.png"
+        },
+        {
+          "id": 4,
+          "title": "Gallery Image 4",
+          "alt": "img4",
+          "src": "assets/images/thumbs/gallery-img4.png",
+          "href": "assets/images/thumbs/gallery-img4.png"
+        },
+        {
+          "id": 5,
+          "title": "Gallery Image 5",
+          "alt": "img5",
+          "src": "assets/images/thumbs/gallery-img5.png",
+          "href": "assets/images/thumbs/gallery-img5.png"
+        },
+        {
+          "id": 6,
+          "title": "Gallery Image 6",
+          "alt": "img6",
+          "src": "assets/images/thumbs/gallery-img6.png",
+          "href": "assets/images/thumbs/gallery-img6.png"
+        },
+        {
+          "id": 7,
+          "title": "Gallery Image 7",
+          "alt": "img7",
+          "src": "assets/images/thumbs/gallery-img7.png",
+          "href": "assets/images/thumbs/gallery-img7.png"
+        },
+        {
+          "id": 8,
+          "title": "Gallery Image 8",
+          "alt": "img8",
+          "src": "assets/images/thumbs/gallery-img8.png",
+          "href": "assets/images/thumbs/gallery-img8.png"
+        },
+        {
+          "id": 9,
+          "title": "Gallery Image 9",
+          "alt": "img9",
+          "src": "assets/images/thumbs/gallery-img9.png",
+          "href": "assets/images/thumbs/gallery-img9.png"
+        }
+      ]
+    },
+    "university": {
+      "title": "University",
+      "icon": "ph-magic-wand",
+      "images": [
+        {
+          "id": 1,
+          "title": "Gallery Image 1",
+          "alt": "img1",
+          "src": "assets/images/thumbs/gallery-img1.png",
+          "href": "assets/images/thumbs/gallery-img1.png"
+        },
+        {
+          "id": 2,
+          "title": "Gallery Image 2",
+          "alt": "img2",
+          "src": "assets/images/thumbs/gallery-img2.png",
+          "href": "assets/images/thumbs/gallery-img2.png"
+        }
+      ]
+    },
+    "tutors": {
+      "title": "Tutors",
+      "icon": "ph-code",
+      "images": [
+        {
+          "id": 1,
+          "title": "Gallery Image 1",
+          "alt": "img1",
+          "src": "assets/images/thumbs/gallery-img1.png",
+          "href": "assets/images/thumbs/gallery-img1.png"
+        },
+        {
+          "id": 2,
+          "title": "Gallery Image 2",
+          "alt": "img2",
+          "src": "assets/images/thumbs/gallery-img2.png",
+          "href": "assets/images/thumbs/gallery-img2.png"
+        }
+      ]
+    }
+  }
+}
