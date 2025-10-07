@@ -17,6 +17,11 @@ export const metadata = {
     "Sekolah Dasar",
   ],
   content: "67PRV7PTWE-aCpQSE5-XwU_pzoughUtziJ_doFhoGLM",
+  icons: {
+    icon: [{ url: "/favicon.ico" }],
+    apple: [{ url: "/apple-touch-icon.png" }],
+    other: [{ rel: "manifest", url: "/site.webmanifest" }],
+  },
 };
 
 export default function RootLayout({ children }) {
