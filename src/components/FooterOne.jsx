@@ -171,17 +171,17 @@ const FooterOne = () => {
                   </span>
                   <div className="">
                     <Link
-                      href="tel:+6285281752123"
+                      href="tel:+6285695766755"
                       className="text-neutral-500 d-block hover-text-main-600 mb-4"
                     >
-                      +62 852-8175-2123
+                      +62 8565-9576-6755 (Telp)
                     </Link>
                     <Link
-                      href="https://wa.me/6285281752123"
+                      href="https://wa.me/6285695766755"
                       target="_blank"
                       className="text-neutral-500 d-block hover-text-main-600 mb-0"
                     >
-                      +62 852-8175-2123
+                      +62 856-9576-6755 (WA)
                     </Link>
                   </div>
                 </div>
