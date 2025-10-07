@@ -105,7 +105,8 @@ const FooterOne = () => {
                   </li>
                   <li className="mb-0">
                     <Link
-                      href="/"
+                      href="https://forms.gle/kungShkai1iju2Yq9"
+                      target="_blank"
                       className="text-neutral-500 hover-text-main-600 hover-text-decoration-underline"
                     >
                       Pendaftaran Online
@@ -120,7 +121,7 @@ const FooterOne = () => {
                 <ul className="footer-menu">
                   <li className="mb-16">
                     <Link
-                      href="/courses"
+                      href="/#"
                       className="text-neutral-500 hover-text-main-600 hover-text-decoration-underline"
                     >
                       Kurikulum
@@ -128,7 +129,7 @@ const FooterOne = () => {
                   </li>
                   <li className="mb-16">
                     <Link
-                      href="/courses"
+                      href="/#"
                       className="text-neutral-500 hover-text-main-600 hover-text-decoration-underline"
                     >
                       Ekstrakurikuler
@@ -136,7 +137,7 @@ const FooterOne = () => {
                   </li>
                   <li className="mb-16">
                     <Link
-                      href="/courses"
+                      href="/#"
                       className="text-neutral-500 hover-text-main-600 hover-text-decoration-underline"
                     >
                       Program Unggulan
@@ -144,7 +145,7 @@ const FooterOne = () => {
                   </li>
                   <li className="mb-16">
                     <Link
-                      href="/courses"
+                      href="/#"
                       className="text-neutral-500 hover-text-main-600 hover-text-decoration-underline"
                     >
                       Program Internasional
@@ -152,7 +153,7 @@ const FooterOne = () => {
                   </li>
                   <li className="mb-16">
                     <Link
-                      href="/courses"
+                      href="/#"
                       className="text-neutral-500 hover-text-main-600 hover-text-decoration-underline"
                     >
                       Program Beasiswa

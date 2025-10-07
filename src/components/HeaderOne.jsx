@@ -466,7 +466,8 @@ const HeaderOne = () => {
             {/* Header Right start */}
             <div className="header-right flex-align">
               <a
-                href="/#"
+                href="https://forms.gle/kungShkai1iju2Yq9"
+                target="_blank"
                 className="btn btn-main rounded-pill flex-align gap-8 d-xl-block d-none"
                 data-aos="fade-right"
               >

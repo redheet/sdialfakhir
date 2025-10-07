@@ -60,15 +60,16 @@ const BannerOne = () => {
               </p>
               <div className="buttons-wrapper flex-align flex-wrap gap-24 mt-40">
                 <Link
-                  href="/course"
+                  href="https://forms.gle/kungShkai1iju2Yq9"
                   className="btn btn-main rounded-pill flex-align gap-8"
                   data-aos="fade-right"
+                  target="_blank"
                 >
                   Pendaftaran
                   <i className="ph-bold ph-arrow-up-right d-flex text-lg" />
                 </Link>
                 <Link
-                  href="/about"
+                  href="/#"
                   className="btn btn-outline-main rounded-pill flex-align gap-8"
                   data-aos="fade-left"
                 >
