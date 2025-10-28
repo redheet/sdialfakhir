@@ -103,7 +103,7 @@ const BannerOne = () => {
                 className="banner-box one px-24 py-12 rounded-12 bg-white fw-medium box-shadow-lg d-inline-block"
                 data-aos="fade-down"
               >
-                <span className="text-main-600">90k+</span> Murid terdaftar
+                <span className="text-main-600">10+</span> Murid terdaftar
                 {/* <div className="enrolled-students mt-12">
                   <img
                     src="assets/images/thumbs/enroll-student-img1.png"
