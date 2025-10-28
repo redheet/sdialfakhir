@@ -82,7 +82,7 @@ const BannerOne = () => {
           <div className="col-xl-6">
             <div className="banner-thumb position-relative">
               <img
-                src="assets/images/thumbs/1.webp"
+                src="assets/images/thumbs/zaidan.webp"
                 alt=""
                 className="banner-thumb__img rounded-12 wow bounceIn"
                 data-wow-duration="3s"
